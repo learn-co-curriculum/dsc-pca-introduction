@@ -1,9 +1,9 @@
 
-# Principle Component Analysis (PCA) - Introduction
+# Principal Component Analysis (PCA) - Introduction
 
 ## Introduction
 
-In this section, you'll learn about Principle Component Analysis, or PCA. PCA is a dimensionality reduction technique. It allows you to compress a dataset into a smaller dataset with fewer features while maintaining as much of the original information as possible.
+In this section, you'll learn about Principal Component Analysis, or PCA. PCA is a dimensionality reduction technique. It allows you to compress a dataset into a smaller dataset with fewer features while maintaining as much of the original information as possible.
 
 ## Objectives
 
