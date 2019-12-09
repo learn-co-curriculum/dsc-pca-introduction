@@ -1,15 +1,10 @@
 
-# Principal Component Analysis (PCA) - Introduction
+# PCA - Introduction
 
 ## Introduction
 
-In this section, you'll learn about Principal Component Analysis, or PCA. PCA is a dimensionality reduction technique. It allows you to compress a dataset into a smaller dataset with fewer features while maintaining as much of the original information as possible.
+In this section, you'll learn about Principal Component Analysis, or PCA, one of the most famous _Unsupervised Learning Techniques_. PCA is a dimensionality reduction technique. It allows you to compress a dataset into a smaller dataset with fewer features while maintaining as much of the original information as possible.
 
-## Objectives
-
-You will be able to:
-
-* Discuss what PCA is and what it is used for
 
 ## The Curse of Dimensionality
 
@@ -21,4 +16,4 @@ The curse of dimensionality is certainly one motivating factor for PCA. If you c
 
 ## Summary
 
-In this section, you'll explore PCA in depth using sci-kit learn, and coding your own version from scratch using NumPy. Throughout, keep in mind use cases for PCA such as the curse of dimensionality.
+In this section, you'll explore PCA in depth using scikit-learn, and coding your own version from scratch using NumPy. Throughout, keep in mind use cases for PCA such as the curse of dimensionality.
